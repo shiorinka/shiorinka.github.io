@@ -55,6 +55,7 @@ body{
     margin:0 10% 0 10%;
     height:93vh;
     text-indent:32px;
+    border-radius:10px;
 }
 
 .title{
