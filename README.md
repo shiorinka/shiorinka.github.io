@@ -1,2 +1,2 @@
 # shiorinka.github.io
-一个简单的blog，嗯
+最后的清净处。
